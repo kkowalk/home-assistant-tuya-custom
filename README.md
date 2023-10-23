@@ -1,3 +1,5 @@
+This is the fork of below repository. Created for preparing a patch to support Watering Valve RTX ZVG1 (which has some issues on "original" repo)
+
 # home-assistant-tuya-custom
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)
